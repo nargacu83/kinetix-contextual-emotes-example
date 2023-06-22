@@ -19,10 +19,10 @@ The dialogue system is using a ScriptableObject where you give a text, choices a
 1. Clone the repository.
 2. Open the project using **Unity LTS 2022.3.1f1**.
 3. Open the **SampleScene**.
-4. Assign your Virtual World Key on the **DemoManager** GameObject.
+4. Assign your [Virtual World Key](https://docs.kinetix.tech/gs-1/unity/download-and-set-up/get-your-virtual-world-key) on the **DemoManager** GameObject.
 5. Play the scene.
 
 ## Resources
 
-[Kinetix SDK Docs](https://docs.kinetix.tech/)
-[Unity Docs](https://docs.unity3d.com/)
+- [Kinetix SDK Docs](https://docs.kinetix.tech/)
+- [Unity Docs](https://docs.unity3d.com/)
